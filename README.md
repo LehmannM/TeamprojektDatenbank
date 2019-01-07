@@ -1,0 +1,2 @@
+# TeamprojektDatenbank
+MySQL and JDBC 
